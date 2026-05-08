@@ -1,4 +1,6 @@
-# EditRefiner: A Human-Aligned Agentic Framework for Image Editing Refinement
+<h1 align="center">
+EditRefiner: A Human-Aligned Agentic Framework for Image Editing Refinement
+</h1>
 
 📦 Installation
 
